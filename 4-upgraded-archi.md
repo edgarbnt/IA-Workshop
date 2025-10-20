@@ -2,7 +2,7 @@
 
 ## Le problème
 
-e modèle simple atteint ses limites. On peut l'améliorer avec des techniques plutot récentes
+le modèle simple atteint ses limites. On peut l'améliorer avec des techniques plutot récentes
 
 ## Les nouvelles techniques
 
