@@ -1,7 +1,7 @@
 # Workshop : Classification d'images avec TensorFlow
 ## Reconnaissance d'animaux (chien, chat, oiseau)
 
-### Bienvenue dans ce workshopgit au vas apprendre à créer une intelligence artificielle capable de reconnaître des animaux sur des images. On va construire progressivement un réseau de neurones convolutionnel (CNN) avec TensorFlow.
+### Bienvenue dans ce workshopgit ajnlku vas apprendre à créer une intelligence artificielle capable de reconnaître des animaux sur des images. On va construire progressivement un réseau de neurones convolutionnel (CNN) avec TensorFlow.
 
 ### buts du workshop
 - Comprendre les bases des réseaux de neurones convolutionnels
