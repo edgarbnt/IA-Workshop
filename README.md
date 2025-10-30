@@ -2,7 +2,6 @@
 ## Reconnaissance d'animaux (chien, chat, oiseau)
 
 ### Bienvenue dans ce workshop
-
 u vas apprendre à créer une intelligence artificielle capable de reconnaître des animaux sur des images. On va construire progressivement un réseau de neurones convolutionnel (CNN) avec TensorFlow.
 
 ### buts du workshop
