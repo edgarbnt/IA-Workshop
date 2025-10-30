@@ -3,7 +3,7 @@
 
 ### Bienvenue dans ce workshop
 
-Tu vas apprendre à créer une intelligence artificielle capable de reconnaître des animaux sur des images. On va construire progressivement un réseau de neurones convolutionnel (CNN) avec TensorFlow.
+u vas apprendre à créer une intelligence artificielle capable de reconnaître des animaux sur des images. On va construire progressivement un réseau de neurones convolutionnel (CNN) avec TensorFlow.
 
 ### buts du workshop
 - Comprendre les bases des réseaux de neurones convolutionnels
