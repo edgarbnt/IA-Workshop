@@ -2,7 +2,7 @@
 
 ## Théorie rapide
 
-Un CNN (Convolutional Neural Network) traite les images avec des filtres qui détectent des formes simples puis complexes :
+Un CNN (Convoutional Neural Network) traite les images avec des filtres qui détectent des formes simples puis complexes :
 - **Conv2D** : Détecte des motifs (contours, textures)
 - **MaxPooling2D** : Réduit la taille des données
 - **Dense** : Couches finales pour la classification
